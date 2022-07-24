@@ -1,25 +1,8 @@
-![image](https://user-images.githubusercontent.com/418605/59557258-10742880-8fa3-11e9-84fb-4d66a9d89faa.png)
-
 # Data Structures and Algorithms in JavaScript
-
-[![CircleCI](https://circleci.com/gh/amejiarosario/dsa.js-data-structures-algorithms-javascript.svg?style=shield)](https://app.circleci.com/pipelines/github/amejiarosario/dsa.js-data-structures-algorithms-javascript) [![NPM version](https://badge.fury.io/js/dsa.js.svg)](https://badge.fury.io/js/dsa.js) [![chat](https://dsajs-slackin.herokuapp.com/badge.svg)](https://dsajs-slackin.herokuapp.com)
 
 > This is the coding implementations of the [DSA.js book](https://books.adrianmejia.com/dsajs-data-structures-algorithms-javascript/) and the repo for the NPM package.
 
 > In this repository, you can find the implementation of algorithms and data structures in JavaScript.  This material can be used as a reference manual for developers, or you can refresh specific topics before an interview. Also, you can find ideas to solve problems more efficiently.
-
-<!-- (Check out the Time Complexity Cheatsheet) -->
-
-
-<!--
-[![CircleCI](https://circleci.com/gh/amejiarosario/dsa.js-data-structures-and-algorithms-in-javascript.svg?style=svg)](https://circleci.com/gh/amejiarosario/dsa.js-data-structures-and-algorithms-in-javascript)
-[![Code Style Airbnb](https://img.shields.io/badge/code%20style-Airbnb-brightgreen.svg)](https://github.com/airbnb/javascript)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![ProductHunt](https://img.shields.io/badge/product%20hunt-vote-orange.svg)](https://www.producthunt.com/posts/dsa-js)
-https://bundlephobia.com/result?p=dsa.js
-https://img.shields.io/bundlephobia/min/dsa.js.svg - 16.7kB
-https://img.shields.io/github/repo-size/amejiarosario/dsa.js.svg - 98.1 MB
--->
 
 ![Interactive Data Structures](https://user-images.githubusercontent.com/418605/46118890-ba721180-c1d6-11e8-82bc-6a671428b422.png)
 <!-- [](https://embed.kumu.io/85f1a4de5fb8430a10a1bf9c5118e015) -->
@@ -467,47 +450,3 @@ We are going to discuss the following techniques for solving algorithms problems
 
   </details>
 </blockquote>
-
-## FAQ
-
-<details>
-    <summary>How would I apply these to my day-to-day work? <i>(Click to expand)</i></summary>
-    <p>
-    As a programmer, we have to solve problems every day. If you want to solve problems well, it's good to know about a broad range of solutions. Often, it's more efficient to learn existing resources than stumble upon the answer yourself. The more tools and practice you have, the better. This book helps you understand the tradeoffs among data structures and reason about algorithms performance.
-    </p>
-</details>
-
-<details>
-    <summary>Why you created this repo/book?</summary>
-    <p>
-        There are not many books about Algorithms in JavaScript. This material fills the gap.
-        Also, it's good practice :)
-    </p>
-</details>
-
-<details>
-    <summary>Is there anyone I can contact if I have questions about something in particular?
-    </summary>
-    <p>
-    Yes, open an issue or ask questions on the [slack channel](https://dsajs-slackin.herokuapp.com).
-    </p>
-</details>
-
-## Book
-
-This project is also available in a [book](https://books.adrianmejia.com/dsajs-data-structures-algorithms-javascript/). You will get a nicely formatted PDF with 180+ pages + ePub and Mobi version.
-
-[![dsa.js book](https://books.adrianmejia.com/dsajs-data-structures-algorithms-javascript/images/dsajs-cover-320h2.png)](https://books.adrianmejia.com/dsajs-data-structures-algorithms-javascript/)
-
-## Support
-
-Reach out to me at one of the following places!
-
-- Twitter at <a href="http://twitter.com/iAmAdrianMejia" target="_blank">`@iAmAdrianMejia`</a>
-- Chat on <a href="https://dsajs-slackin.herokuapp.com" target="_blank">`dsajs.slack.com`</a>
-
-## License
-
-[![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](LICENSE)
-
-<!-- ![](https://data.uxeranalytics.com/image1.png?uxa=github-dsajs) -->
