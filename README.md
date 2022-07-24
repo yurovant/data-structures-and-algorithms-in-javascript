@@ -13,19 +13,30 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Installation](#installation)
 - [Features](#features)
 - [What's Inside](#whats-inside)
-  - [📈 Algorithms Analysis](#-algorithms-analysis)
-  - [🥞 Linear Data Structures](#-linear-data-structures)
-  - [🌲 Non-Linear Data Structures](#-non-linear-data-structures)
-  - [⚒ Algorithms Techniques](#%E2%9A%92-algorithms-techniques)
-- [Book](#book)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
-
+  - [Algorithms Analysis](#algorithms-analysis)
+  - [Computer Science nuggets without all the mumbo-jumbo](#computer-science-nuggets-without-all-the-mumbo-jumbo)
+    - [Learn to calculate run time from code examples](#learn-to-calculate-run-time-from-code-examples)
+  - [Learn how to compare algorithms using Big O notation.](#learn-how-to-compare-algorithms-using-big-o-notation)
+    - [Comparing algorithms using Big O notation](#comparing-algorithms-using-big-o-notation)
+    - [Most common time complexities](#most-common-time-complexities)
+    - [Time complexity graph](#time-complexity-graph)
+  - [Linear Data Structures](#linear-data-structures)
+    - [Understand the ins and outs of the most common data structures](#understand-the-ins-and-outs-of-the-most-common-data-structures)
+    - [When to use an Array or Linked List. Know the tradeoffs](#when-to-use-an-array-or-linked-list-know-the-tradeoffs)
+    - [Build a List, Stack and a Queue from scratch](#build-a-list-stack-and-a-queue-from-scratch)
+  - [Non-Linear Data Structures](#non-linear-data-structures)
+    - [HashMaps](#hashmaps)
+    - [Know the properties of Graphs and Trees](#know-the-properties-of-graphs-and-trees)
+      - [Graphs](#graphs)
+    - [Trees](#trees)
+    - [Implement a binary search tree for fast lookups](#implement-a-binary-search-tree-for-fast-lookups)
+  - [Algorithmic Toolbox](#algorithmic-toolbox)
+    - [Never get stuck solving a problem with 8 simple steps](#never-get-stuck-solving-a-problem-with-8-simple-steps)
+    - [Master the most popular sorting algorithms](#master-the-most-popular-sorting-algorithms)
+    - [Learn different approaches to solve algorithmic problems](#learn-different-approaches-to-solve-algorithmic-problems)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -69,7 +80,7 @@ _Note: If you prefer to consume the information more linearly, then the [book fo
 The topics are divided into four main categories, as you can see below:
 
 
-### 📈 [Algorithms Analysis](book/part01-algorithms-analysis.asc)
+### [Algorithms Analysis](book/part01-algorithms-analysis.asc)
 
 <!-- - Computer Science nuggets without all the mumbo-jumbo.
 - Learn how to compare algorithms using Big O notation.
@@ -146,7 +157,7 @@ Using Big O notation, we can compare different solutions that solve the same pro
 </details>
 </blockquote>
 
-### 🥞 [Linear Data Structures](book/part02-linear-data-structures.asc)
+### [Linear Data Structures](book/part02-linear-data-structures.asc)
 
 <!-- - Understand the ins and outs of the most common data structures.
 - When to use an Array or Linked List. Know the tradeoffs.
@@ -230,7 +241,7 @@ Use Linked Lists when:
   </details>
 </blockquote>
 
-### 🌲 [Non-Linear Data Structures](book/part03-graph-data-structures.asc)
+### [Non-Linear Data Structures](book/part03-graph-data-structures.asc)
 <!-- - Understand one of the most versatile data structure of all: Maps -->
 <!-- - Know the properties of Graphs and Trees. -->
 <!-- - Implement a binary search tree for fast lookups. -->
@@ -355,7 +366,7 @@ From unbalanced BST to balanced BST
   </details>
 </blockquote>
 
-### ⚒ [Algorithmic Toolbox](book/part04-algorithmic-toolbox.asc)
+### [Algorithmic Toolbox](book/part04-algorithmic-toolbox.asc)
 
 <!-- - Never get stuck solving a problem with seven simple steps. -->
 <!-- - Master the most popular sorting algorithms (merge sort, quicksort, insertion sort, etc.) -->
